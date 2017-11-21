@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "88789027818",
+    "firebase_url": "https://tasha-push.firebaseio.com",
+    "project_id": "tasha-push",
+    "storage_bucket": "tasha-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88789027818:android:3411e374956964e3",
+        "android_client_info": {
+          "package_name": "com.example.khair.tasha_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88789027818-kij9ss48d9pp2n8s6hn125kde6v5ilib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNP-pHAuv_jOPqQEFEekMP2WDEiCQo-FM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
